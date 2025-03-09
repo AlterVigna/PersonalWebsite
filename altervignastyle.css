@@ -129,6 +129,10 @@
 			margin-bottom: 10px;
 		}
 		
+		.thesisTitle{
+			text-align: center !important;
+			font-style: italic;
+		}
 		
 		.gridprojects {
 			display: grid;
